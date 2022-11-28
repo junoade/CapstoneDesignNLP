@@ -1,7 +1,6 @@
 {
     "username" : "동국죠스 이슈 분류 시스템",
     "icon_url" : "https://github.com/hojunlee-hj/CapstoneDesignNLP/blob/main/Webhook/donggukJaws.png?raw=true",
-    "text": "안녕",
     "blocks": [
     	{
     		"type": "section",
@@ -22,7 +21,7 @@
     		"type": "section",
     		"text": {
     			"type": "mrkdwn",
-    			"text": "*기능 태그* : #업데이트 #재생"
+    			"text": "*기능 태그* : `#업데이트` `#재생`"
     		}
     	},
         {
@@ -54,7 +53,7 @@
             "image_url": "http://my-website.com/path/to/image.jpg",
             "thumb_url": "http://example.com/path/to/thumb.png",
             "footer": "Google Playstore",
-            "footer_icon": "https://raw.githubusercontent.com/hojunlee-hj/CapstoneDesignNLP/936ce6964c307de42929c830777d80141a00b757/Webhook/google-playstore-icon.svg",
+            "footer_icon": "https://github.com/hojunlee-hj/CapstoneDesignNLP/blob/main/Webhook/google-play-png-logo.png?raw=true",
             "ts": 1666818722
         }
     ]
