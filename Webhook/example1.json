@@ -1,0 +1,60 @@
+{
+    "username" : "동국죠스 이슈 분류 시스템",
+    "icon_url" : "https://github.com/hojunlee-hj/CapstoneDesignNLP/blob/main/Webhook/donggukJaws.png?raw=true",
+    "blocks": [
+    	{
+    		"type": "section",
+    		"text": {
+    			"type": "mrkdwn",
+    			"text": "*기술적 문제* : 앱 클라이언트 기능 문제"
+    		}
+    	},
+    	{
+    		"type": "section",
+    		"block_id": "section567",
+    		"text": {
+    			"type": "mrkdwn",
+    			"text": "*담당 부서* : 앱 개발팀"
+    		}
+    	},
+        {
+    		"type": "section",
+    		"text": {
+    			"type": "mrkdwn",
+    			"text": "*기능 태그* : `#잠금화면` `#재생 중인 노래` `#동기화 안됨`"
+    		}
+    	},
+        {
+            "type": "section",
+    		"text": {
+    			"type": "mrkdwn",
+    			"text": "*주요 이슈*\n```이번 업데이트 하고 지금 앱에서 재생이 안되요```"
+    		}
+        }
+    ],
+    "attachments": [
+        {
+            "fallback": "Plain-text summary of the attachment.",
+            "color": "#2eb886",
+            "pretext": "*전체 리뷰 내용*",
+            "author_name": "레몬에이드",
+            "author_link": "https://play.google.com/store/apps/details?id=com.ktmusic.geniemusic",
+            "author_icon": "https://play-lh.googleusercontent.com/a-/ACNPEu8IuL7KfkgzfluR2TTbroiL8vJK8y4J26KAkL_aFw=s64-rw",
+            "title": "원문 링크",
+            "title_link": "https://play.google.com/store/apps/details?id=com.ktmusic.geniemusic",
+            "text": "이번 업데이트 하고 지금 앱에서 재생이 안되요 근데 자꾸 한곡 끝나면 멈춰요 제가 직접 지니 다시 들어가서 재생버튼 몇번 눌러야 다시 재생되고 이게 하루도 안빠지고 매일 그래서 진짜 미칠지경이에요ㅠㅠ",
+            "fields": [
+                {
+                    "title": "리뷰 공감 수",
+                    "value": 10,
+                    "short": false
+                }
+            ],
+            "image_url": "http://my-website.com/path/to/image.jpg",
+            "thumb_url": "http://example.com/path/to/thumb.png",
+            "footer": "Google Playstore",
+            "footer_icon": "https://github.com/hojunlee-hj/CapstoneDesignNLP/blob/main/Webhook/google-play-png-logo.png?raw=true",
+            "ts": 1666818722
+        }
+    ]
+}
